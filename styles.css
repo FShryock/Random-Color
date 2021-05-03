@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+#btn{
+  display: flex;
+  font-size: 25px;
+  margin: auto;
+  padding: 5px 25px;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+}
